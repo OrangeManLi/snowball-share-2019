@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/snowball-share-2019/static/css/main.b100e6da.chunk.css",
+    "main.js": "/snowball-share-2019/static/js/main.8144af58.chunk.js",
+    "main.js.map": "/snowball-share-2019/static/js/main.8144af58.chunk.js.map",
+    "runtime-main.js": "/snowball-share-2019/static/js/runtime-main.6027a4cd.js",
+    "runtime-main.js.map": "/snowball-share-2019/static/js/runtime-main.6027a4cd.js.map",
+    "static/js/2.07262e6e.chunk.js": "/snowball-share-2019/static/js/2.07262e6e.chunk.js",
+    "static/js/2.07262e6e.chunk.js.map": "/snowball-share-2019/static/js/2.07262e6e.chunk.js.map",
+    "index.html": "/snowball-share-2019/index.html",
+    "precache-manifest.4ccb58acd4dd8c3a3b765c443b2a70b2.js": "/snowball-share-2019/precache-manifest.4ccb58acd4dd8c3a3b765c443b2a70b2.js",
+    "service-worker.js": "/snowball-share-2019/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/snowball-share-2019/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/snowball-share-2019/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6027a4cd.js",
+    "static/js/2.07262e6e.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.8144af58.chunk.js"
+  ]
+}
